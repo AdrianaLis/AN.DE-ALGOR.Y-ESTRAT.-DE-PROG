@@ -1,0 +1,7 @@
+print("Ingrese nombre ")
+nom=input()
+print(f"se llama {nom}")
+print()
+
+nom=input("ingrese nombre:\n ")
+print(f"se llama {nom}")
