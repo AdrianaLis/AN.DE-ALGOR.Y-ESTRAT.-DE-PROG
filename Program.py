@@ -13,3 +13,5 @@ result = edad >18 ? "Mayor edad ": "Niño";
 dddddd
 fff
 """
+
+
